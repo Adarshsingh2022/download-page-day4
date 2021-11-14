@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    background-color: rgb(216, 176, 176);
+    
+}
+header{
+    text-align: center;
+    color:rgb(247, 99, 0);
+}
+
+#container{
+    display: inline;
+}
+.head{
+    margin: 100px;
+    margin-left: 40px;
+}
